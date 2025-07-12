@@ -1,6 +1,6 @@
 # Seattle Area Home Price Estimator
 
-A project predicting King County housing prices using XGBoost, deployed via Streamlit.
+Project predicting King County housing prices using XGBoost, deployed through Streamlit.
 
 ## Features
 - Built in Colab with `scikit-learn`, `XGBoost`, and `Streamlit`
@@ -12,6 +12,6 @@ A project predicting King County housing prices using XGBoost, deployed via Stre
 - R² ≈ 0.86 (XGBoost)
 
 ## Try the app
-🔗 [Live App](https://your-ngrok-link-here)
+[Live App](https://your-ngrok-link-here)
 
 ---
